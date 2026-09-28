@@ -1,0 +1,4 @@
+schema=A2_AUTHORIZED_EXTERNAL_EFFECT_V4
+authority_effect=NONE
+candidate_id=A2-GITHUB-AUTHORIZED-V4-20260928
+statement=authorized exact effect requires independent verification before admission
