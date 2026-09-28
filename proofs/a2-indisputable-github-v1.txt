@@ -1,0 +1,8 @@
+schema=A2_EXTERNAL_EFFECT_PROOF_V1
+authority_effect=NONE
+candidate_id=A2-GITHUB-20260927-V1
+repo=governorai-secops/ggaix-public-anchors
+branch=a2/indisputable-github-v1-20260927
+path=proofs/a2-indisputable-github-v1.txt
+effect=CREATE_EXACT_UTF8_FILE
+statement=external GitHub state must be independently observed before admission
