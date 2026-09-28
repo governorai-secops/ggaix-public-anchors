@@ -1,0 +1,4 @@
+schema=A2_EXTERNAL_DIVERGENCE_TEST_V1
+authority_effect=NONE
+expected=GOOD
+candidate_id=A2-GITHUB-DIVERGENCE-20260927
