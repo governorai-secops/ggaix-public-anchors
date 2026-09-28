@@ -1,4 +1,5 @@
 schema=A2_EXTERNAL_DIVERGENCE_TEST_V1
 authority_effect=NONE
 expected=GOOD
+observed=BAD_OUT_OF_BAND_MUTATION
 candidate_id=A2-GITHUB-DIVERGENCE-20260927
